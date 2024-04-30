@@ -27,7 +27,7 @@ class MainViewModel : ViewModel() {
                     requestCode: Int,
                     responseCode: Int
                 ) {
-                    
+
                 }
 
             })
